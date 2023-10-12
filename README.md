@@ -6,5 +6,3 @@ Open "Preferences" in Standard Notes and click "General". Open "Advanced Setting
 https://listed.to/p/fRwEd5o26z
 
 Please consider subscribing to Standard Notes to help them build and maintain Standard Notes.
-
-![Preview](https://github.com/Tellervo89/sn-dark-theme-saratoga/blob/main/preview.png "Preview")
