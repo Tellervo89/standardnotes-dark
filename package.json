@@ -1,5 +1,5 @@
 {
-  "name": "@standardnotes/dark-theme",
+  "name": "Dark Theme",
   "version": "1.0.0",
   "main": "dist/dist.css",
   "devDependencies": {
